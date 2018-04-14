@@ -1,0 +1,40 @@
+body {
+	background: #fff;
+	font-family: Helvetica;
+}
+
+#form{
+	margin-top: 100px;
+	text-align: center;
+}
+
+span {
+	display: block;
+	margin-bottom: 30px;
+}
+
+input {
+	width: 40px;
+	height: 40px;
+	margin-bottom: 30px;
+	size: 2em;
+}
+
+button{
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	padding: 10px 30px 10px 30px;
+	font-size: 1em;
+	text-align: center;
+	border-style: none;
+	background: steelblue;
+	color: #fff;
+	cursor: pointer;
+	width: 140px;
+}
+
+#resultado{
+	margin: 20px;
+	text-align: center;
+}
